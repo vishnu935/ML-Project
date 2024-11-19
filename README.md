@@ -1,7 +1,7 @@
 
-#**FLOOD PREDICTION**
+**FLOOD PREDICTION**
 **Submitted by** : Vishnu E J
-####TABLE OF CONTENTS
+**TABLE OF CONTENTS**
 1. Problem Statement
 2. Objective
 3. Data Collection
