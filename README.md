@@ -1,6 +1,21 @@
 
 #**FLOOD PREDICTION**
 **Submitted by** : Vishnu E J
+####TABLE OF CONTENTS
+1. Problem Statement
+2. Objective
+3. Data Collection
+4. Data Description
+5. EDA
+6. Data Preprocessing
+7. Visualization
+8. Data Splitting
+9. Model Selection
+10. Model Training and Evaluation (Without feature selection and hyperparameter tuning)
+11. Feature Selection
+12. Hyperparameter tuning
+13. Saving the model
+14. Load the model
 #### PROBLEM STATEMENT
 Flood detection refers to identifying, monitoring, and alerting authorities or individuals about the presence of flooding in a particular area. It involves using various technologies and methods to detect, predict, and the impacts of floods. Flood prediction is a critical area of research due to its significant impact on human life, infrastructure, and the environment. Accurate flood prediction models can aid in disaster preparedness and risk management, reducing the adverse effects of floods.
 #### OBJECTIVE
